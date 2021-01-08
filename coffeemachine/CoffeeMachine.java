@@ -10,8 +10,6 @@ public class CoffeeMachine {
     private int cups;
     private int money;
 
-
-
     public CoffeeMachine(){     // inital
         this.water =400;
         this.coffee =120;
@@ -51,8 +49,6 @@ public class CoffeeMachine {
     public void takeMoney(){
         this.money =0;
     }
-
-
 
 
     public void buy(int coffeeChoice){
