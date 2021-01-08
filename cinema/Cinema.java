@@ -96,7 +96,6 @@ public class Cinema {
             sum+=determinePrice(row);
         }
         return sum;
-
     }
 
     public static int currentIncome(){
