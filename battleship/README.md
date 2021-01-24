@@ -28,5 +28,5 @@ Denote the conditions for the end of the game.
 [Stage 5/5: Friend or foe](https://hyperskill.org/projects/125/stages/667/implement)
 Make your game more interesting by adding another player with their own field.  
 
-##remarks
+## remarks
 i focused more on oop this time :c
