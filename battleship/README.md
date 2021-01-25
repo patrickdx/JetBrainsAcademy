@@ -5,6 +5,12 @@
 
 Writing games is probably one of the most exciting tasks in programming. Develop your own version of the popular "Battleship Game" to play with your friends!
 
+## Instructions
+
+- The game starts off with any type of 2 players (human/computer) where they input the ships using two coords. ex: (F6 G6), the players are given 5 ships each with varying length.
+- After each player correctly has placed their ships, the battle commences, where both players take turns firing at coordinates. If the coordinate is located where the opponent's ship is at, then is marked as HIT, if miss marked as M. 
+- The first player to sink all the ships wins. 
+
 ## Learning outcomes
 
 You will understand the process of developing such a complex program as a game and learn about processing user input and handling errors.
