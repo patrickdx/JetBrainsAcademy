@@ -1,2 +1,2 @@
 # JetBrainsAcademy
-jetbrains mini projects, project difficulty ranges from easy to challenging 
+jetbrains projects, project difficulty ranges from easy to challenging 
