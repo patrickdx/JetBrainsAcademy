@@ -26,4 +26,3 @@ work.
 - first letter of each word in the class name should start with Uppercase, is made up with descriptive nouns. 
 - method names should have verbs (action), first word should be lowercase; words following that are uppercase (first letter)
 - constants in all capital letters
-
