@@ -8,3 +8,21 @@
 - banking system UI (Balance, Add income, Do transfer, close account, create account)
 - card information (balance, id, number, pin) are stored in database via SQLite Java with rest methods. 
 
+## what i learned 
+
+- reading documentation of a certain database/library for help 
+
+### relational databases
+  database based on the relational model: 
+- data stored in tables with columns and rows, generally having each object as their own table (creditcard)
+- rows represent instances of type object 
+- columns represent instance variables of object, (number, PIN, balance) usually with a unique key (ID) for each row 
+
+#### Relational Database Management System (RDBMS)
+- program used to edit/create database (CardDatabase.java)
+- SQL language used to communicate with the database.
+
+#### SQL (Structured Query Language)
+- method for accessing data in a relational database. (SQL can POST,GET,UPDATE,DELETE...)
+- there are many variations of SQL, for different purposes
+- particularly SQLite (the one I used) can store an database in a single file. Instead of saving a database to a server, you can just store it locally offline on your PC.
